@@ -19,3 +19,8 @@ const body = document.querySelector("body"),
         modeText.innerText = "Dark Mode"
     }
  });
+
+ const cursorDot = document.querySelector("[data-cursor-dot]")
+ const cursorOutline = document.querySelector("[data-cursor-outline]")
+
+ window 
